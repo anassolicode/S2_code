@@ -1,0 +1,12 @@
+.header{
+    text-align: center;
+    padding: 40px;
+    background-color: rgba(91, 98, 187, 0.201);
+
+}
+.badge{
+    display: inline-block;
+    background-color: aliceblue;
+    color: blue;
+    padding: 5px 15px;
+}
