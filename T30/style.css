@@ -1,0 +1,21 @@
+body {
+    /* Pour bien voir l'effet de la marge négative, on ajoute de l'espace au-dessus */
+    padding-top: 100px; 
+}
+
+.carte {
+    max-width: 600px;
+    margin: auto;
+    margin-top: -50px;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: white;
+}
+.citation{
+    margin: 20px 0;
+    padding: 15px 20px;
+     background: #f8f9fa;
+     border-left: solid 5px blue;
+     border-radius: 0 10px 10px 0;
+}
